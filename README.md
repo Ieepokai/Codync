@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="apps/desktop/resources/icon.svg" width="128" alt="Codync icon">
+<img src="icon.svg" width="128" alt="Codync icon">
 
 # Codync
 
